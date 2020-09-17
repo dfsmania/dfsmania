@@ -21,16 +21,18 @@ My name is Diego Smania. I'm a computer scientists with solid knowledges on full
 
 __Statistics and Development Technologies:__
 
+<!-- Add statistics using anuraghazra/github-readme-stats package -->
 <img src="https://github-readme-stats.vercel.app/api?username=shidersz&show_icons=true" align="left">
 
-![](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white&color=339cff)
-![](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white&color=339cff)
-![](https://img.shields.io/badge/DBMS-MySQL-blue?logo=mysql&logoColor=white&color=339cff)
+<!-- Add shield badges using https://shields.io/ -->
+![](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white&color=339cff&style=plastic)
+![](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white&color=339cff&style=plastic)
+![](https://img.shields.io/badge/DBMS-MySQL-blue?logo=mysql&logoColor=white&color=339cff&style=plastic)
 
-![](https://img.shields.io/badge/Code-Html5-blue?logo=html5&logoColor=white&color=339cff)
-![](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript&logoColor=white&color=339cff)
-![](https://img.shields.io/badge/Code-PHP-blue?logo=php&logoColor=white&color=339cff)
+![](https://img.shields.io/badge/Code-Html5-blue?logo=html5&logoColor=white&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript&logoColor=white&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Code-PHP-blue?logo=php&logoColor=white&color=339cff&style=plastic)
 
-![](https://img.shields.io/badge/Framework-Laravel-blue?logo=laravel&logoColor=white&color=339cff)
-![](https://img.shields.io/badge/Framework-Bootstrap-blue?logo=bootstrap&logoColor=white&color=339cff)
-![](https://img.shields.io/badge/Framework-jQuery-blue?logo=jquery&logoColor=white&color=339cff)
+![](https://img.shields.io/badge/Framework-Laravel-blue?logo=laravel&logoColor=white&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Framework-Bootstrap-blue?logo=bootstrap&logoColor=white&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Framework-jQuery-blue?logo=jquery&logoColor=white&color=339cff&style=plastic)
