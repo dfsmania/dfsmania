@@ -13,11 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me:
-My name is Diego Smania and I'm a computer scientists with solid knowledges on full stack development. Here is a set of projects in which I have made some contributions:
+__About Me:__
+
+My name is Diego Smania. I'm a computer scientists with solid knowledges on full stack development. Here you have a set of projects in which I have made most of my contributions:
+
 - [jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE)
 
-### Development Technologies:
+__Statistics and Development Technologies:__
+
+<img src="https://github-readme-stats.vercel.app/api?username=shidersz&show_icons=true" align="left">
+
 ![](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white&color=339cff)
 ![](https://img.shields.io/badge/Code-Html5-blue?logo=html5&logoColor=white&color=339cff)
 ![](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript&logoColor=white&color=339cff)
@@ -26,7 +31,3 @@ My name is Diego Smania and I'm a computer scientists with solid knowledges on f
 ![](https://img.shields.io/badge/Framework-Laravel-blue?logo=laravel&logoColor=white&color=339cff)
 ![](https://img.shields.io/badge/Framework-Bootstrap-blue?logo=bootstrap&logoColor=white&color=339cff)
 ![](https://img.shields.io/badge/Framework-jQuery-blue?logo=jquery&logoColor=white&color=339cff)
-
-### Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=shidersz&show_icons=true"
-     align="center">
