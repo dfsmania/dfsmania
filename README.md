@@ -33,6 +33,6 @@ __Statistics and Development Technologies:__
 ![](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript&logoColor=white&color=339cff&style=plastic)
 ![](https://img.shields.io/badge/Code-PHP-blue?logo=php&logoColor=white&color=339cff&style=plastic)
 
-![](https://img.shields.io/badge/Framework-Laravel-blue?logo=laravel&logoColor=white&color=339cff&style=plastic)
-![](https://img.shields.io/badge/Framework-Bootstrap-blue?logo=bootstrap&logoColor=white&color=339cff&style=plastic)
-![](https://img.shields.io/badge/Framework-jQuery-blue?logo=jquery&logoColor=white&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Fwk-Laravel-blue?logo=laravel&logoColor=white&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Fwk-Bootstrap-blue?logo=bootstrap&logoColor=white&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Fwk-jQuery-blue?logo=jquery&logoColor=white&color=339cff&style=plastic)
