@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 __About Me:__
 
-My name is Diego Smania. I'm a computer scientists with solid knowledges on full stack development. Here you have a set of projects in which I have made most of my contributions:
+My name is Diego Smania. I'm a computer scientist with solid knowledges on full stack development. Here you have a set of projects in which I have made most of my contributions:
 
 - [jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE)
 
