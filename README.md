@@ -22,7 +22,7 @@ I'm Diego Smania, a computer scientist with solid knowledges on full stack devel
 __Statistics and Development Technologies:__
 
 <!-- Add statistics using anuraghazra/github-readme-stats package -->
-<img src="https://github-readme-stats.vercel.app/api?username=shidersz&show_icons=true" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=shidersz&show_icons=true&bg_color=40,444444,0e86d4&text_color=d3d3d3&title_color=FDC271&icon_color=E8BF8B" align="left">
 
 <!-- Add shield badges using https://shields.io/ -->
 ![](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white&color=339cff&style=plastic)
