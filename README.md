@@ -22,17 +22,17 @@ I'm Diego Smania, a computer scientist with solid knowledges on full stack devel
 __Statistics and Development Technologies:__
 
 <!-- Add statistics using anuraghazra/github-readme-stats package -->
-<img src="https://github-readme-stats.vercel.app/api?username=shidersz&show_icons=true&bg_color=40,444444,0e86d4&text_color=d3d3d3&title_color=FDC271&icon_color=E8BF8B" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=shidersz&show_icons=true&bg_color=40,333333,0e86d4&text_color=ffffff&title_color=fdc271&icon_color=E8BF8B" align="left">
 
 <!-- Add shield badges using https://shields.io/ -->
-![](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white&color=339cff&style=plastic)
-![](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white&color=339cff&style=plastic)
-![](https://img.shields.io/badge/DBMS-MySQL-blue?logo=mysql&logoColor=white&color=339cff&style=plastic)
+![](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=fdc271&color=339cff&style=plastic)
+![](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=fdc271&color=339cff&style=plastic)
+![](https://img.shields.io/badge/DBMS-MySQL-blue?logo=mysql&logoColor=fdc271&color=339cff&style=plastic)
 
-![](https://img.shields.io/badge/Code-Html5-blue?logo=html5&logoColor=white&color=339cff&style=plastic)
-![](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript&logoColor=white&color=339cff&style=plastic)
-![](https://img.shields.io/badge/Code-PHP-blue?logo=php&logoColor=white&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Code-Html5-blue?logo=html5&logoColor=fdc271&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript&logoColor=fdc271&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Code-PHP-blue?logo=php&logoColor=fdc271&color=339cff&style=plastic)
 
-![](https://img.shields.io/badge/Fwk-Laravel-blue?logo=laravel&logoColor=white&color=339cff&style=plastic)
-![](https://img.shields.io/badge/Fwk-Bootstrap-blue?logo=bootstrap&logoColor=white&color=339cff&style=plastic)
-![](https://img.shields.io/badge/Fwk-jQuery-blue?logo=jquery&logoColor=white&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Fwk-Laravel-blue?logo=laravel&logoColor=fdc271&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Fwk-Bootstrap-blue?logo=bootstrap&logoColor=fdc271&color=339cff&style=plastic)
+![](https://img.shields.io/badge/Fwk-jQuery-blue?logo=jquery&logoColor=fdc271&color=339cff&style=plastic)
