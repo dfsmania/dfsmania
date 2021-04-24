@@ -19,6 +19,12 @@ I'm Diego Smania, a computer scientist with solid knowledges on full stack devel
 
 - [jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE) - An [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) integration for the [Laravel](https://laravel.com/) framework.
 
+__Donations:__
+
+I live in Argentina, a country with high inflation where it is hard to progress. However, I spend most of my free time helping to open source projects. If you feel comfortable with my contributions, please consider donating to help me upgrade my workstation and maintain my family.
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=2TLVPTRE84L5C&source=url)
+
 __Statistics and Development Technologies:__
 
 <!-- Add statistics using anuraghazra/github-readme-stats package -->
