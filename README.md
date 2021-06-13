@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 
 __About Me:__
 
-I'm Diego Smania, a computer scientist with solid knowledges on full stack development. Check the projects in which I have made most of my contributions:
+I'm Diego Smania, a computer scientist with solid knowledges on full stack development. You may check some of the projects in which I made most of my contributions:
 
 - [jeroennoten/Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE) - An [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) integration for the [Laravel](https://laravel.com/) framework.
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - A free admin dashboard template based on **Bootstrap 4**.
 
 __Donations:__
 
-I live in Argentina, a country with a high economic inflation where it is really hard to progress. However, I make the effort to use my free time to contribute to some open source projects. If you feel comfortable with my contributions, please consider donating. That way you can help me to upgrade my workstation and keep my family fed.
+I live in Argentina, a country with a high economic inflation where it is really hard to progress. However, I make a great effort to use my free time for contribute to some open source projects. If you feel comfortable with my contributions, please consider donating. That way, you will keep me focused and motivated with more contributions. Also, you will be helping to keep my family fed and to upgrade my workstation, among other things.
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=2TLVPTRE84L5C&source=url)
 
