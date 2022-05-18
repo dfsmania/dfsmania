@@ -1,5 +1,5 @@
 <!--
-**Shidersz/Shidersz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dfsmania/dfsmania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,7 +29,7 @@ I live in Argentina, a country with a high economic inflation where it is really
 __Statistics and Development Technologies:__
 
 <!-- Add statistics using anuraghazra/github-readme-stats package -->
-<img src="https://github-readme-stats.vercel.app/api?username=shidersz&show_icons=true&bg_color=40,000000,4477b2&text_color=ffffff&title_color=fdc271&icon_color=E8BF8B" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=dfsmania&show_icons=true&bg_color=40,000000,4477b2&text_color=ffffff&title_color=fdc271&icon_color=E8BF8B" align="left">
 
 <!-- Add shield badges using https://shields.io/ -->
 ![](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white&color=4477b2&style=flat-square)
