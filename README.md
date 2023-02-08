@@ -22,7 +22,7 @@ I'm Diego Smania, a computer scientist with solid knowledges on full stack devel
 
 __Donations:__
 
-I live in Argentina, a country with a high economic inflation where it is really hard to progress. However, I make a great effort to use my free time for contribute to some open source projects. If you feel comfortable with my contributions, please consider becoming a sponsor or make a donation. That way, you will keep me focused and motivated with more contributions. Also, you will be helping to keep my family fed and to upgrade my workstation, among other things.
+I live in Argentina, a country with a high economic inflation where it is really hard to progress. However, I make a great effort to use my free time for contribute to some open source projects. If you feel comfortable with my contributions, please consider becoming a sponsor or make a donation. That way, you will keep me focused and motivated in this side job. Also, you will be helping to keep my family fed and to upgrade my workstation, among other things.
 
 [:heart: Github Sponsor](https://github.com/sponsors/dfsmania)
 
